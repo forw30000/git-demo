@@ -8,3 +8,4 @@ hello lsh! hello git!
 hello lsh! hello git!
 hello lsh! hello git! master test
 hello lsh! hello git! hot-fix text
+善宏giegie，果然厉害。
